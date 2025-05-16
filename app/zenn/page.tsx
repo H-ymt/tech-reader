@@ -1,3 +1,5 @@
+export const revalidate = 60 * 10;
+
 import {
 	Tabs,
 	TabsContent,
